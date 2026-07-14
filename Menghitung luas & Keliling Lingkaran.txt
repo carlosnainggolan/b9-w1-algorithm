@@ -1,0 +1,8 @@
+Menghitung luas & Keliling Lingkaran
+
+1. Mulai
+2. Lihat nilai dari radius lingkaran
+3. Tentukan nilai phi dengan syarat, jika radius habis dibagi 7, maka nilai phi adalah 22/7 jika tidak, nilai phi adalah 3,14
+4. Hitung luas lingkaran dengan nilai radius, dikali dengan nilai radius, dikali nilai phi
+5. Hitung keliling lingkaran dengan 2 dikali dengan phi dikali dengan radius
+6. Selesai
