@@ -1,5 +1,5 @@
 FUNCTION Total Belanja Akhir 
-DECLARE belanja, diskon, total belanja akhir : float
+DECLARE belanja, diskon, total belanja, total belanja akhir : float
 
 BEGIN
 	INPUT (Total Belanja)
@@ -9,7 +9,8 @@ BEGIN
 		diskon <- 5 %
 	ELSE 
 		diskon <- 0
-	Total belanja akhir <- belanja - belanja*diskon
+	END IF
+	Total belanja akhir<- belanja - belanja*diskon
 	OUTPUT(Total belanja akhir)
 END
 
