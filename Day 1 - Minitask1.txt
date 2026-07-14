@@ -1,0 +1,10 @@
+Memindahkan air di dalam gelas
+
+Kondisi : Gelas A berisi teh dan gelas B berisi kopi
+
+1. Mulai
+2. Siapkan wadah baru untuk menampung salah satu cairan
+3. Pindahkan salah satu cairan ke wadah yang baru (bisa kopi, bisa teh)
+4. Cairan yang masih ada di gelas, pindahkan ke gelas kosong (kalua cairan yang dipindahkan ke wadah itu teh, kopinya pindahkan ke gelas a dan sebaliknya)
+5. Pindahkan cairan yang ada di wadah ke gelas yang belum terisi
+6. Selesai
