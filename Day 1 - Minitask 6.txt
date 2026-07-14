@@ -4,12 +4,12 @@ DECLARE belanja, diskon, total belanja akhir : float
 BEGIN
 	INPUT (Total Belanja)
 	IF belanja > 1.000.000
-		diskon = 10 %
+		diskon <- 10 %
 	ELSEIF belanja > 500.000
-		diskon = 5 %
+		diskon <- 5 %
 	ELSE 
-		diskon = 0
-	Total belanja akhir = belanja - belanja*diskon
+		diskon <- 0
+	Total belanja akhir <- belanja - belanja*diskon
 	OUTPUT(Total belanja akhir)
 END
 
