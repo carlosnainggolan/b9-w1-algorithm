@@ -3,7 +3,7 @@ Memindahkan air di dalam gelas
 Kondisi : Gelas A berisi teh dan gelas B berisi kopi
 
 1. Mulai
-2. Siapkan gelas C untuk menampung salah satu cairan
+2. Siapkan gelas C yang kosong, untuk menampung salah satu cairan
 3. Pindahkan kopi ke gelas C
 4. Pindahkan teh ke gelas B
 5. Pindahkan kopi dari gelas C ke ke gelas A
