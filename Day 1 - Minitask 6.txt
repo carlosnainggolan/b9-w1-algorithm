@@ -1,5 +1,6 @@
 FUNCTION Total Belanja Akhir 
-DECLARE belanja, diskon, total belanja akhir : num
+DECLARE belanja, diskon, total belanja akhir : float
+
 BEGIN
 	INPUT (Total Belanja)
 	IF belanja > 1.000.000
