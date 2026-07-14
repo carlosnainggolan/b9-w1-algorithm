@@ -1,0 +1,10 @@
+Minitask Algoritma 3
+
+Diketahui : Variabel X
+Goal : menentukan apakah x bilangan ganjil atau genap
+
+1. Mulai
+2. Bagikan x dengan 2
+3. Jika habis dibagi 2, maka x adalah bilangan genap
+4. Jika tidak habis dibagi 2, maka x adalah bilangan ganjil
+5. Selesai
